@@ -5,7 +5,7 @@ An enterprise-grade B2B web portal designed for industrial automation companies,
 > ⚠️ **Disclaimer:** This project is an enterprise concept developed strictly for **portfolio showcase and demonstration purposes**. All business names, phone numbers, and addresses used are placeholders.
 
 ## 🚀 Live Demo
-🔗 **[https://apex-automation.vercel.app](https://apex-automation.vercel.app)**
+🔗 **[https://apex-automation.vercel.app](https://apex-automation-orpin.vercel.app/)**
 
 ---
 
