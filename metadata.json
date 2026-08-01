@@ -1,0 +1,6 @@
+{
+  "name": "Apex Automation Systems",
+  "description": "Industrial Robotics & Smart Factory Integration - Enterprise-grade industrial automation, PLC programming, robotics cell integration, and SCADA solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
